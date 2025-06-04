@@ -1,53 +1,37 @@
-# 海绵宝宝的自我介绍
+# 孙悟空的自我介绍
 
-<img src="photo/海绵宝宝.png" alt="海绵宝宝形象" width = "200" height = "图片长度" />
+![43c95b95ca2ecbaef9e155826566f7b2](https://github.com/user-attachments/assets/b70ddf24-3167-4535-a0e6-465d03e5d6f2)
 
-大家好，我是**海绵宝宝**，我的身份是*蟹宝王厨师和社区活跃分子*。以下是我的自我介绍：
+
+大家好，我是**孙悟空**，我的身份是**。以下是我的自我介绍：
 
 ---
 
 ## 基础档案
 
 ### 外貌特征
- - 黄色正方形海绵生物
-    + 表情永远乐观
+ - 黄色生物
+    + 表情永远乐观无敌
 
-## 我的好朋友
-1. 派大星
-2. 珊迪
-3. ~~章鱼哥~~
+## 我的好兄弟
+1. 猪八戒
+2. 唐三藏
+3. 沙和尚
 
 ### 重要坐标
-**住址:**[比奇堡镇贝壳街124号菠萝屋](https://baike.baidu.com/item/比奇堡/8275168)
+**住址:**[花果山水帘洞](https://baike.baidu.com/item/%E8%8A%B1%E6%9E%9C%E5%B1%B1/4193?fromtitle=%E8%8A%B1%E6%9E%9C%E5%B1%B1%E6%B0%B4%E5%B8%98%E6%B4%9E&fromid=8944855&fromModule=lemma_search-box)
 
-**工作地址:**[蟹堡王餐厅](https://baike.baidu.com/item/蟹堡王/8043124)
+**工作地址:**[灵山](https://baike.baidu.com/item/%E7%81%B5%E5%B1%B1%E5%8E%BF/7182038?fromtitle=%E7%81%B5%E5%B1%B1&fromid=3147225)
 
-### 日常作息表
-| 时间      |   事项    |
-|:--------|:-------:|
-| 7：00AM  | 起床与晨间仪式 |
-| 7：30AM  | 通勤去蟹堡王  |
-| 8：00AM  |  蟹堡王工作  |
-| 12：00AM |  午餐时间   |
-| 1：00PM  |  甜点时间   |
-| 2：00PM  |  下班回家   |
-| 3：00PM  |  自由时间   |
-| 6：00PM  |  晚餐聚会   |
-| 8：00PM  |  冒险时间   |
-| 10：00PM |  睡前准备   |
-| 10：30PM |   就寝    |
-
-
-### 人生信条
-> “世界上最伟大的事，就是做自己喜欢的事并做到极致！”
->> “只要保持笑容，就没有过不去的坎儿！”
->>> “如果人生是悲剧，那就把它变成喜剧。”
 
 ---
 
 ## 我的专业是人工智能
+![截图一](https://github.com/user-attachments/assets/91fa0c69-26dd-49c6-97ca-206de6e3dffa)
 
 ## 我最喜欢的一段代码
+![截图二](https://github.com/user-attachments/assets/68962caa-7a44-42fa-b9df-28cee8dd3e4e)
+
    ```
 import numpy as np
 print(np.array([1, 2, 3]) ** 2)
