@@ -1,6 +1,6 @@
 #孙悟空的自我介绍
+<img width="109" alt="6134e94d30bac1ec75c1d0195ae1555" src="https://github.com/user-attachments/assets/b4af2ee9-4fb9-4ee0-9be0-d4ffbe2166d6" />
 
-![43 c 95 b 95 ca 2 ecbaef 9 e 155826566 F7 b 2](https://github . com/user-attachments/assets/b 70 ddf 24-3167-4535-a0e 6-465d 03 e 5d 6 f 2)
 
 
 大家好,我是**孙悟空**,我的身份是*菩提祖师之徒*。以下是我的自我介绍：
@@ -39,7 +39,9 @@ print(np.array([1，2，3]) ** 2)
 其中执行``print(np.array([1，2，3]) ** 2)``可输出结果。
 
 ###我最喜欢的环境管理工具是康达
-<img科学研究委员会=“照片/截图一。巴布亚新几内亚" 中高音="截图一" 宽度 = "800" 高度 = "图片长度" />
+<img width="467" alt="4f62e0f70bd97c647e5a6628c738aa3" src="https://github.com/user-attachments/assets/edcb342c-c286-4fad-91d3-6e8100588597" />
+
 
 ###我可以在集成驱动电子设备上使用我建立的虚拟环境
-<img科学研究委员会=“照片/截图二。巴布亚新几内亚" 中高音="截图二" 宽度 = "800" 高度 = "图片长度" />
+<img width="448" alt="b5a64fa1ca37d37b046d1578a2c4e00" src="https://github.com/user-attachments/assets/f7688e46-0e70-4fde-90a3-d0d3213035a3" />
+
