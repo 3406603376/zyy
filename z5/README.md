@@ -2,37 +2,38 @@
 
 ## 3.数据预处理验证
 
-![3](image/3.png)
+<img width="760" alt="91610388262da257e439494e595ed33" src="https://github.com/user-attachments/assets/b1116764-d0e7-44b9-8b5d-58eb61f34652" />
+
 
 
 
 ## 4.模型结构验证
-
-![4](image/4.png)
+<img width="740" alt="479ac7eba37b657e4fa80789c53494d" src="https://github.com/user-attachments/assets/f4606489-a525-4fc1-862d-4eaf64b36b3a" />
 
 
 
 ## 5.RNN序列处理验证
+<img width="750" alt="414d34dc7862293ed9a4bb3b5c6d15b" src="https://github.com/user-attachments/assets/96708d3c-d8de-4330-b7dd-e06d6c1b97e3" />
 
-![5](image/5.png)
 
 ## 6.模型性能评估
 
 ## 7.推理能力验证
-
-![6](image/6.png)
+<img width="559" alt="208268297bc310d48a0791bc19467ad" src="https://github.com/user-attachments/assets/1148405a-efa9-4ae7-a0fa-57ee9570ff4d" />
 
 # 10.RNN 
 
-（代码在10_Surname_Generation_with_RNNs）
+
 
 ### 无条件姓氏生成
 
-![10_1](image/10_1.png)
+<img width="722" alt="67a945a777c10531532aa26582c32c3" src="https://github.com/user-attachments/assets/2bec3121-7148-4347-97d7-8d880945825a" />
+
 
 ### 有条件姓氏生成
+<img width="694" alt="8acac407f5906fc6d3d6f1871bf750b" src="https://github.com/user-attachments/assets/c9f53dc1-a20d-4dfb-b375-2226bab70fb3" />
 
-![10_2](image/10_2.png)
+
 
 ## 4、**回答问题**
 
